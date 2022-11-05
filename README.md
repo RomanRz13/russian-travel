@@ -9,3 +9,6 @@
 
 ## *Запуск* 
 Код протестирован в браузерах Safari, Chrome, Yandex. Для открытия проекта необходимо запустить файл "Index.html".
+
+### *Ссылка на проект:*
+(https://romanrz13.github.io/russian-travel/)
