@@ -7,8 +7,6 @@
     align-items: center;
     box-sizing: border-box;
     margin: 0 auto;
-	outline: 1px solid red;
-
 }
 
 @media screen and (max-width: 1124px) {
@@ -24,7 +22,7 @@
 }
 
 
-@media screen and (max-width: 568px){
+@media screen and (max-width: 767px){
     .footer{
         max-width: 288px;
         flex-direction: column;

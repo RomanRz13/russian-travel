@@ -2,7 +2,7 @@
     margin: 0 18px 0 0;
 }
 
-@media screen and (max-width: 568px){
+@media screen and (max-width: 767px){
     .footer__table{
         margin:0  0 32px 0;
         

@@ -14,7 +14,6 @@
     background-size: cover;
     position: relative;
     z-index: 1;
-    outline: 1px solid red;
 }
 
 @media screen and (max-width: 1124px) {
@@ -29,7 +28,7 @@
     }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 767px) {
     .cover__item {
         min-height: 200px;
     }

@@ -1,7 +1,6 @@
 .page__content{
     margin-top: 56px;
     margin-bottom: 92px;
-    outline: 1px solid red;
 }
 
 @media screen and (max-width: 1124px) {
@@ -16,7 +15,7 @@
     }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 767px) {
     .page__content {
         margin-top: 48px;
         margin-bottom: 64px;  
