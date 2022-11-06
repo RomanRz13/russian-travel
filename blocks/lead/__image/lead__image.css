@@ -1,9 +1,13 @@
 .lead__image {
+    display: block;
     max-width: 984px;
+    width: 100%;
     box-sizing: border-box;
     background-position: center;
     background-size: cover;
     overflow: hidden;
+    margin: 0 auto;
+    
 
 }
 
@@ -22,7 +26,7 @@
 
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 568px) {
     .lead__image {
         max-width: 320px;
     }
