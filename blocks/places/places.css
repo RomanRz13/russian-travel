@@ -1,32 +1,23 @@
-.places{
+.places {
     display: grid;
-    max-width: 984px;
     gap: 80px;
     margin: 0 auto;
     box-sizing: border-box;
     justify-content: center;
 }
 
-@media screen and (max-width: 1124px) {
-    .places{
-        max-width: 928px;
-    }
-}
+
 
 @media screen and (max-width: 984px) {
-    .places{
-        max-width: 720px;
+    .places {
         gap: 73px;
-        margin: 0;
-        
+
     }
 }
 
 
 @media screen and (max-width: 568px) {
-    .places{
-        margin: 0 auto;
+    .places {
         gap: 50px;
     }
 }
-

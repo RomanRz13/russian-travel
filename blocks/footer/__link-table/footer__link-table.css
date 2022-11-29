@@ -6,7 +6,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 568px) {
     .footer__link-table {
         margin:0 0 32px 0;
 

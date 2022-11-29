@@ -1,0 +1,7 @@
+.header__table {
+    list-style: none;
+    display: flex;
+    text-align: right;
+    text-decoration: none;
+
+}

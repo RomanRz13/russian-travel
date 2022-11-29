@@ -1,17 +1,8 @@
 .header__lang-links {
-  list-style: none;
-  display: flex;
-  text-align: right;
-  margin: 0;
-  padding: 0;
+  margin: 0 18px 0 0;
 
 }
 
-
-@media screen and (max-width: 767px) {
-  .header__lang-links {
-    margin-top: 10px;
-
-  }
+.header__lang-links:last-child {
+  margin-right: 0;
 }
-  
