@@ -31,6 +31,6 @@
         grid-template-columns: minmax(min-content, 288px);
         grid-template-rows: repeat(12, 216px);
         gap: 12px;
-        
+
     }
 }

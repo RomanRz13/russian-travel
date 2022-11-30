@@ -1,11 +1,11 @@
-.footer__table{
+.footer__table {
     margin: 0 18px 0 0;
 }
 
-@media screen and (max-width: 568px){
-    .footer__table{
-        margin:0  0 32px 0;
-        
-}
+@media screen and (max-width: 568px) {
+    .footer__table {
+        margin: 0 0 32px 0;
+
+    }
 
 }

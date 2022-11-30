@@ -1,4 +1,4 @@
-.footer__links{
+.footer__links {
     font-size: 1rem;
     font-weight: 400;
     line-height: 18px;
@@ -9,11 +9,10 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: 568px){
-    .footer__links{
+@media screen and (max-width: 568px) {
+    .footer__links {
         flex-direction: column;
-        
-        
-}
+
+    }
 
 }
